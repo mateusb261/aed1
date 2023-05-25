@@ -1,0 +1,12 @@
+Digite a nota 1: 
+Digite a nota 2: 
+Digite a nota 3: 
+Digite a nota 4: 
+
+As notas fornecidas sao:
+6.60
+7.70
+8.80
+9.90
+
+A media das notas e: 8.25
